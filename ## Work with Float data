@@ -1,0 +1,41 @@
+## Work with Float data
+# Float variables are 
+a <- 10.2
+b <- 2.2
+
+## Sum float variables
+c = a+b
+10.2+2.2
+a+b
+
+
+# Subtracting float variables
+c-b
+10.2-2.2
+
+z_float <- 15.5
+print(z_float)
+
+
+# Output the type of variable
+typeof(b)
+typeof(z_float)
+print(typeof(z_float))
+
+# Convert a float or double to integer
+x <- as.integer(z_float)
+print(x)
+print(typeof(x))
+
+
+# Dividing integer and float numbers
+x/b
+
+# to see the rest of the division
+x%%b
+
+# to output the int part of the result
+x%/%b
+p = a%/%b
+print(typeof(p))
+
