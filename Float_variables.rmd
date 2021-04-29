@@ -1,0 +1,10 @@
+---
+title: "Float_variables"
+author: "Helder"
+date: "4/29/2021"
+output: html_document
+---
+
+This text will be about float variables
+Float is a shortened term for "floating point." By definition, it's a fundamental data type built into the compiler that's used to define numeric values with floating decimal points.
+Float and double are similar types. Float is a single-precision, 32-bit floating point data type; double is a double-precision, 64-bit floating point data type. The biggest differences are in precision and range.
